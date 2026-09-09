@@ -20,9 +20,7 @@ export default function AboutPage() {
             Volunteer opportunities
           </h1>
           <p className="mt-5 max-w-2xl text-base leading-relaxed text-muted-foreground sm:text-lg">
-            Music is meant to be shared. Tri-M Chapter 860 members log hundreds of service hours each
-            year tutoring younger musicians, running concert logistics, and bringing performances into
-            the Roslyn community. Find a role that fits your schedule and earn service points doing it.
+            Service is a major part of Tri-M. Roslyn High School and the community offer many opportunities to volunteer in music-related service, where you can contribute to the community and grow as a person. Volunteering may grant you Tri-M points or community service hours.
           </p>
         </div>
       </section>
