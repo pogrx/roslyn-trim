@@ -9,7 +9,7 @@ export default function AboutPage() {
         <title>Volunteer Opportunities | Tri-M Music Honor Society at Roslyn High School</title>
         <meta
           name="description"
-          content="Volunteer with Tri-M Chapter 860 at Roslyn High School — concert crew, peer tutoring, community outreach performances, NYSSMA mentoring, and more. Earn service points giving back through music."
+          content="Service is a major part of Tri-M. Roslyn High School and the community offer many opportunities to volunteer in music-related service, where you can contribute to the community and grow as a person. Volunteering may grant you Tri-M points or community service hours."
         />
       </Helmet>
 
