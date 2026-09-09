@@ -53,7 +53,7 @@ function AppLayout() {
             <main className="flex-1">
                 <Routes>
                     <Route path="/" element={<HomePage />} />
-                    <Route path="/about" element={<AboutPage />} />
+                    <Route path="/volunteer" element={<AboutPage />} />
                     <Route path="/announcements" element={<AnnouncementsPage />} />
                     <Route path="/info" element={<InfoPage />} />
                     <Route path="*" element={<HomePage />} />
