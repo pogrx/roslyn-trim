@@ -1,5 +1,6 @@
 import React from 'react';
 import { Route, Routes, BrowserRouter as Router, useLocation } from 'react-router-dom';
+import { Analytics } from '@vercel/analytics/react';
 import ScrollToTop from './components/ScrollToTop';
 import SiteHeader from './components/SiteHeader';
 import SiteFooter from './components/SiteFooter';
@@ -70,6 +71,7 @@ function App() {
         <Router>
             <ScrollToTop />
             <AppLayout />
+            <Analytics />
         </Router>
     );
 }
