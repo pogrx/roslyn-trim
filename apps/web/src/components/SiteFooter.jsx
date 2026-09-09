@@ -4,8 +4,8 @@ const FOOTER_LINKS = [{
   to: '/',
   label: 'Home'
 }, {
-  to: '/about',
-  label: 'About Tri-M'
+  to: '/volunteer',
+  label: 'Volunteer opportunities'
 }, {
   to: '/announcements',
   label: 'Student Announcements'
