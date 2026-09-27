@@ -88,7 +88,11 @@ export const POINT_SYSTEM = [
 export const FAQS = [
     {
         q: 'Who can join Tri-M?',
-        a: 'Any student who shows dedication to music and/or is currently enrolled in a music class at Roslyn High School can join the Tri-M Honor Society. However, all applications must be made before the due date and reviewed by an officer.',
+        a: 'As a national honor society, Tri-M maintains standards for membership. Students who are currently enrolled in a music ensemble and/or music course at Roslyn High School and who meet the membership requirements established by the Roslyn High School Tri-M chapter are eligible to apply for membership. Candidates should demonstrate strong musicianship, academic achievement, leadership, service, and character. All applications must be submitted by the stated deadline and are subject to review and approval by the Chapter Advisor. For more information, please contact Mr. Aliano.',
+    },
+    {
+        q: 'What are points in Tri-M? Why do I need them after I\'m inducted?'
+        a: 'Tri-M points are a way of tracking your continued participation, service, and involvement in the chapter. Induction recognizes that you have met the qualifications for membership, but members are still expected to remain active and contribute to Tri-M throughout the year.'
     },
     {
         q: 'How do I get points?',
@@ -97,7 +101,7 @@ export const FAQS = [
     },
     {
         q: 'Is attendance mandatory?',
-        a: 'Attendance is checked at every meeting. While some absences for conflicts or other priorities are understandable, attendance is encouraged and too many absences can lead to loss of leadership eligibility or even membership.',
+        a: 'Attendance is taken at every Tri-M meeting, and members earn service points for attending. Members are required to attend at least half of all scheduled meetings. While occasional absences due to conflicts or other commitments are understandable, excessive absences may affect a student’s eligibility for leadership positions and, in some cases, continued membership. Students who are interested in joining Tri-M but are unsure whether they can meet the attendance requirement because of other clubs, activities, or commitments should contact Mr. Aliano to discuss their situation before applying.',
     },
     {
         q: 'Does Tri-M help on college applications?',
