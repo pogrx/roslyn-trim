@@ -17,7 +17,7 @@ export default function AnnouncementsPage() {
 
       {/* Banner */}
       <section className="relative flex min-h-[42dvh] items-end overflow-hidden bg-navy-deep">
-        <img src={CHOIR_IMG} alt="The Roslyn High School choir performing on stage" className="absolute inset-0 h-full w-full object-cover" />
+        <img src={CHOIR_IMG} alt="2025 Tri-M Induction Ceremony" className="absolute inset-0 h-full w-full object-cover" />
         <div className="absolute inset-0 bg-navy-deep/70" />
         <div className="relative mx-auto w-full max-w-6xl px-4 pb-12 pt-28 sm:px-6">
           <h1 className="font-display text-4xl font-semibold tracking-tight text-primary-foreground sm:text-6xl">
