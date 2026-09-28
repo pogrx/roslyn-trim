@@ -27,7 +27,7 @@ export default function InfoPage() {
             </h1>
           </div>
           <div className="mx-auto w-full max-w-md md:ml-auto">
-            <img src={SHEET_MUSIC_IMG} alt="Sheet music and a violin resting in the Roslyn music room" className="aspect-[4/3] w-full object-cover" />
+            <img src={SHEET_MUSIC_IMG} alt="Director Mr. Aliano at the 2024 Induction Ceremony" className="aspect-[4/3] w-full object-cover" />
           </div>
         </div>
       </section>
