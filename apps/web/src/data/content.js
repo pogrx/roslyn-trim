@@ -1,7 +1,7 @@
 export const HERO_IMG = 'https://horizons-cdn.hostinger.com/aa50e594-9507-4d6e-8611-96e42b13dafd/images-r7HzG.jpeg';
 export const REHEARSAL_IMG = 'https://horizons-cdn.hostinger.com/aa50e594-9507-4d6e-8611-96e42b13dafd/tri-m_music_honor_society_logo-eY2Tu.jpg';
 export const CHOIR_IMG = 'https://horizons-cdn.hostinger.com/aa50e594-9507-4d6e-8611-96e42b13dafd/43tri-mits-fCf9o.jpg';
-export const SHEET_MUSIC_IMG = 'imgs/IMG_0496.jpg';
+export const SHEET_MUSIC_IMG = '../../../../imgs/IMG_0496.jpg';
 
 export function parseDate(iso) {
     const [y, m, d] = iso.split('-').map(Number);
