@@ -17,7 +17,7 @@ export default function HomePage() {
 
       {/* Hero */}
       <section className="relative flex min-h-[88dvh] items-end overflow-hidden bg-navy-deep">
-        <img src={HERO_IMG} alt="The Roslyn High School orchestra performing under warm stage lights" className="absolute inset-0 h-full w-full object-cover" />
+        <img src={HERO_IMG} alt="2024 Roslyn Orchestra Winter Concert" className="absolute inset-0 h-full w-full object-cover" />
         <div className="absolute inset-0 bg-navy-deep/70" />
         <div className="relative mx-auto w-full max-w-6xl px-4 pb-20 pt-32 sm:px-6">
           <h1 className="max-w-3xl font-display text-5xl font-semibold leading-[1.02] tracking-tight text-primary-foreground sm:text-6xl lg:text-7xl">Welcome to Roslyn Tri-M</h1>
